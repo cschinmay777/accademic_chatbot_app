@@ -1,0 +1,6 @@
+package com.example.accademic_chatbot
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

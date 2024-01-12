@@ -1,0 +1,42 @@
+var data = [
+  {
+    "title": "Vaibhav Kokitkar",
+    "title1": "Counsellor",
+    "image": "assets/vib.jpeg",
+    "gmail": "https://www.youtube.com/watch?v=FG9M0aEpJGE&list=RDdhYOPzcsbGM&index=26",
+    "github": "https://github.com/prajwalpadole",
+    "linkedin": "https://www.linkedin.com/in/prajwalpadole/",
+  },
+  {
+    "title": "Vinayaki Dalvi",
+    "title1": "Counsellor",
+    "image": "assets/vin.jpeg",
+    "gmail": "prajwal@example.com",
+    "github": "https://github.com/prajwalpadole",
+    "linkedin": "https://www.linkedin.com/in/prajwalpadole/",
+  },
+  {
+    "title": "Shubham Kulkarni",
+    "title1": "Counsellor",
+    "image": "assets/shu.jpeg",
+    "gmail": "prajwal@example.com",
+    "github": "https://github.com/prajwalpadole",
+    "linkedin": "https://www.linkedin.com/in/prajwalpadole/",
+  },
+  {
+    "title": "Chinmay Choudhary",
+    "title1": "Counsellor",
+    "image": "assets/Chinmay.png",
+    "gmail": "prajwal@example.com",
+    "github": "https://github.com/prajwalpadole",
+    "linkedin": "https://www.linkedin.com/in/prajwalpadole/",
+  },
+  {
+    "title": "Shivam Pandagle",
+    "title1": "Counsellor",
+    "image": "assets/shivam.jpeg",
+    "gmail": "prajwal@example.com",
+    "github": "https://github.com/prajwalpadole",
+    "linkedin": "https://www.linkedin.com/in/prajwalpadole/",
+  },
+];
